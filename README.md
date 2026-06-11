@@ -30,7 +30,7 @@ Theoretically you can use pip+virtualenv, but I would lke to promote modern tool
 - Run `uv sync`;
 - Run `uv run main.py`;
 
-## Home assignement
+## Home assignment
 
 1. Implement one of the agents below, or come up with your own;
 2. Look into optional tasks if you want to;
@@ -99,4 +99,4 @@ Theoretically you can use pip+virtualenv, but I would lke to promote modern tool
 2. Make your chat persistent by storing history into file and loading it back (https://pydantic.dev/docs/ai/core-concepts/message-history/#storing-and-loading-messages-to-json);
 3. Add a web UI to your chat (https://pydantic.dev/docs/ai/guides/web/);
 4. Add another agent that would summarize older messages, compressing history and saving you some tokens (https://pydantic.dev/docs/ai/core-concepts/message-history/#summarize-old-messages);
-5. Loop up https://pydantic.dev/docs/ai/examples/setup/ for more inspiration!
+5. Look up https://pydantic.dev/docs/ai/examples/setup/ for more inspiration!
